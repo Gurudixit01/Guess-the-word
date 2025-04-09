@@ -8,6 +8,7 @@ Game Features Overview:
      Guess the Word is an engaging Python game with dynamic word selection, interactive health bar visuals, progressive feedback, and user-friendly logic for validating guesses—all designed to create an immersive and fun experience.
 
 WHAT’S NEXT?
+
      DIFFICULTY LEVELS: 
                 ADD WORD DIFFICULTY OPTIONS (EASY, MEDIUM, HARD) TO CATER TO DIFFERENT PLAYERS' SKILL LEVELS.
                 
