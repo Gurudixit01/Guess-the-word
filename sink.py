@@ -1,0 +1,28 @@
+words = [
+    "Apple", "Book", "Chair", "Dance", "Enjoy", "Friend", "Garden", "Happy", "Idea", "Jump",
+    "Kite", "Laugh", "Music", "Night", "Open", "Play", "Quiet", "Rain", "Sun", "Tree",
+    "Air", "Ball", "Cake", "Dream", "Energy", "Flower", "Gift", "Home", "Island", "Journey",
+    "Key", "Light", "Mountain", "Nature", "Ocean", "Peace", "River", "Sky", "Time", "Unity",
+    "Arrow", "Bridge", "Cloud", "Desk", "Echo", "Freedom", "Game", "Hill", "Jam", "Luck",
+    "Paper", "Quest", "Road", "Smile", "Trail", "Vision", "Water", "Year", "Zone", "Angle",
+    "Bird", "Door", "Forest", "Group", "Heart", "King", "Love", "Nest", "Picture", "Queen",
+    "Spring", "Team", "Value", "Window", "Balance", "Calm", "Effort", "Focus", "Hero", "Name",
+    "Resolve", "Season", "Success", "Virtue", "Wisdom", "Youth", "Account", "Blend", "Challenge", "Growth",
+    "Journey", "Moon", "Optimism", "Passion", "Respect", "Tradition", "Understanding", "Adventure", "Justice", "Kindness",
+    "Legacy", "Purpose", "Reflection", "Happiness", "Opportunity", "Discovery", "Expression", "Fortune", "Harmony", "Insight",
+    "Leadership", "Motivation", "Nature", "Dedication", "Innovation", "Ambition", "Serenity", "Adventure", "Victory", "Knowledge",
+    "Table", "Chair", "Bottle", "Pencil", "Rocket", "Planet", "Bridge", "Castle", "Dinner", "Fabric",
+    "Thread", "Motion", "Gallery", "Theater", "Tunnel", "Travel", "Action", "Spring", "Winter", "Summer",
+    "Autumn", "Engine", "Camera", "Computer", "Speaker", "Paper", "Sandwich", "Train", "River", "Valley",
+    "Farmer", "Village", "Doctor", "Teacher", "Planet", "Author", "Candle", "Picture", "Market", "Window",
+    "Friend", "Silver", "Gold", "Butter", "Wheat", "Grain", "Honey", "Mirror", "Flower", "Courage",
+    "Ambition", "Leader", "Vision", "Winner", "Creation", "Ocean", "Family", "Garden", "Forest", "Invention",
+    "Beauty", "Freedom", "Growth", "Effort", "Master", "Passion", "Harmony", "Unity", "Success", "Courage",
+    "Castle", "Memory", "Horizon", "Diamond", "Emerald", "Ruby", "Village", "Library", "Future", "History",
+    "Wisdom", "Drama", "Castle", "Mountain", "Vision", "Treasure", "Adventure", "Picture", "Nation", "Journey",
+    "Talent", "Holiday", "Joyful", "Courage", "Purpose", "Kindness", "Reflection", "Wander", "Compose", "Thunder",
+    "Fortune", "Horizon", "Project", "Create", "Arrange", "Victory", "Respect", "Picture", "Factory", "Harvest",
+    "Arrival", "Wisdom", "Basket", "Courage", "Purpose", "Lively", "Wonderful", "Success", "Energy", "Venture",
+    "Health", "Smile", "Wander", "Caring", "Bravery", "Dreams", "Kindness", "Wisdom", "Journey", "Enjoy"
+]
+
